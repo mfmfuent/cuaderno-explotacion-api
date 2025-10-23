@@ -1,0 +1,8 @@
+Dependencias de Node
+/node_modules/dist
+
+Logs
+npm-debug.log*yarn-debug.log*yarn-error.log**.log
+
+Entorno local y secretos
+.env.env.local.DS_Store
